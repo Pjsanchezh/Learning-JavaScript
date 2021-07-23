@@ -9,5 +9,5 @@ alert(result);
 
 //ventana de ingreso de datos
 
-var res = prompt('Realmente quieres matar tu pc', 'Me doy cuenta que si');
+var res = prompt('¿Realmente quieres matar tu pc?', 'Si');
 alert('Dijiste que ' + res);
